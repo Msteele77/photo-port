@@ -1,8 +1,6 @@
 import React from 'react'
 import coverImage from "../../assets/cover/cover-image.jpg";
 
-
-
 function About() {
 
   return (
@@ -18,4 +16,4 @@ function About() {
   )
 }
 
-export default About;
+export default About
